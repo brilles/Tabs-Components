@@ -29,3 +29,9 @@ TweenMax.to("#drop", 1.5, {
   top: "60px",
   ease: Power2.easeInOut
 });
+
+TweenMax.to("#drop2", 2, {
+  width: "90%",
+  top: "30px",
+  ease: Power2.easeInOut
+});
